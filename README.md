@@ -1,5 +1,9 @@
-### белаямосква 👋
+### 👋 Olá! Que bom que veio me conhecer!
 
+ Se quiser falar comigo pode me procurar pelo WhatsApp ou pelo email abaixo! 👇🏻👇🏻
+
+ 📧 igoramarals96@gmail.com 📧
+ 🟢 (51) 99234-4062 - WhatsApp 🟢
 <div>
   
   <a href="https://github.com/WhiteMoscou">
