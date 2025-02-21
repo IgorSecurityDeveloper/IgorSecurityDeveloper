@@ -1,6 +1,6 @@
-# 💻 Olá! Eu sou Igor Silva 👋
+# Hi there, I'm Igor Silva!
 
-Sou um desenvolvedor apaixonado por tecnologia, segurança e boas práticas no desenvolvimento de software. Atualmente, estou focado em **Java, .NET, React e DevSecOps**.
+I'm a security-focused developer with a passion for building secure and resilient systems. My expertise includes Next.js, Nest.js, C# and Java.
 
 ---
 
