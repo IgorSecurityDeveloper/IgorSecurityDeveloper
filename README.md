@@ -5,13 +5,9 @@ Sou um desenvolvedor apaixonado por tecnologia, segurança e boas práticas no d
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorSecurityDeveloper&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IgorSecurityDeveloper&theme=radical&hide_border=true" alt="Dias Consecutivos de Contribuição" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSecurityDeveloper&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorSecurityDeveloper&show_icons=true&layout=compact&theme=radical&count_private=true" />
 </p>
 
 ---
@@ -19,15 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia, segurança e boas práticas no d
 ## 🚀 Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,java,cs,dotnet,js,ts,html,css,mysql,postgres,mongodb,git,linux" />
-</p>
-
----
-
-## 📈 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSecurityDeveloper&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,nodejs,nestjs,java,cs,dotnet,js,mysql,postgres,mongodb,git,linux,windows" />
 </p>
 
 ---
@@ -42,5 +30,5 @@ Sou um desenvolvedor apaixonado por tecnologia, segurança e boas práticas no d
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igoramarals96/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igoramarals96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igoramarals96/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igoramarals96@gmail.com)
+
