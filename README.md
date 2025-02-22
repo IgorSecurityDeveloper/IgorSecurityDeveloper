@@ -20,14 +20,6 @@ I'm a security-focused developer with a passion for building secure and resilien
 
 ---
 
-## ⏳ Tempo de Codificação (Wakatime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorSecurityDeveloper&layout=compact&theme=radical" alt="Estatísticas de Codificação" />
-</p>
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igoramarals96/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igoramarals96@gmail.com)
