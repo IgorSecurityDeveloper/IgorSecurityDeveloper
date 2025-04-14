@@ -1,6 +1,6 @@
 # Hi there, I'm Igor Silva!
 
-I'm a security-focused developer with a passion for building secure and resilient systems. My expertise includes Next.js, Nest.js, C# and Java.
+I'm a security-focused developer with a passion for building secure and resilient systems. My expertise includes Next.js, Nest.js, Node.js, JavaScript, TypeScript and Java.
 
 ---
 
