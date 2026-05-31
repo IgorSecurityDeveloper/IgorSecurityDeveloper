@@ -4,18 +4,10 @@ I'm a security-focused developer with a passion for building secure and resilien
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSecurityDeveloper&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorSecurityDeveloper&show_icons=true&layout=compact&theme=radical&count_private=true" />
-</p>
-
----
-
 ## 🚀 Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,astro,js,python,java,jenkins,mysql,mongodb,git,linux,kali,windows" />
+  <img src="https://skillicons.dev/icons?i=nestjs,astro,js,python,java,jenkins,docker,kafka,quarkus,mysql,mongodb,git,linux,kali,windows" />
 </p>
 
 ---
