@@ -7,7 +7,7 @@ I'm a security-focused developer with a passion for building secure and resilien
 ## 🚀 Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,astro,js,python,java,jenkins,docker,kafka,quarkus,mysql,mongodb,git,linux,kali,windows" />
+  <img src="https://skillicons.dev/icons?i=nestjs,astro,js,python,java,jenkins,docker,kafka,mysql,mongodb,git,linux,kali,windows" />
 </p>
 
 ---
